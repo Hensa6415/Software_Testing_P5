@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\1\\1. Data\\1. Data Kuliah\\1. Materi \u0026 Tugas Kelas Kuliah\\SMT3\\PMROGL\\P5\\Tugas Software Testing\\project tugas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1BD4F81-7EAD-4EF9-8F86-45D12E03A9BF}|TugasLibraryUnitTest\\TugasLibraryUnitTest.csproj|D:\\1\\1. Data\\1. Data Kuliah\\1. Materi \u0026 Tugas Kelas Kuliah\\SMT3\\PMROGL\\P5\\Tugas Software Testing\\project tugas\\tugaslibraryunittest\\daytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1BD4F81-7EAD-4EF9-8F86-45D12E03A9BF}|TugasLibraryUnitTest\\TugasLibraryUnitTest.csproj|solutionrelative:tugaslibraryunittest\\daytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E3BB44E-F390-427E-9064-4070ABA0C761}|TugasLibrary\\TugasLibrary.csproj|D:\\1\\1. Data\\1. Data Kuliah\\1. Materi \u0026 Tugas Kelas Kuliah\\SMT3\\PMROGL\\P5\\Tugas Software Testing\\project tugas\\tugaslibrary\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E3BB44E-F390-427E-9064-4070ABA0C761}|TugasLibrary\\TugasLibrary.csproj|solutionrelative:tugaslibrary\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DayTest.cs",
+              "DocumentMoniker": "D:\\1\\1. Data\\1. Data Kuliah\\1. Materi \u0026 Tugas Kelas Kuliah\\SMT3\\PMROGL\\P5\\Tugas Software Testing\\project tugas\\TugasLibraryUnitTest\\DayTest.cs",
+              "RelativeDocumentMoniker": "TugasLibraryUnitTest\\DayTest.cs",
+              "ToolTip": "D:\\1\\1. Data\\1. Data Kuliah\\1. Materi \u0026 Tugas Kelas Kuliah\\SMT3\\PMROGL\\P5\\Tugas Software Testing\\project tugas\\TugasLibraryUnitTest\\DayTest.cs",
+              "RelativeToolTip": "TugasLibraryUnitTest\\DayTest.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T10:32:01.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\1\\1. Data\\1. Data Kuliah\\1. Materi \u0026 Tugas Kelas Kuliah\\SMT3\\PMROGL\\P5\\Tugas Software Testing\\project tugas\\TugasLibrary\\User.cs",
+              "RelativeDocumentMoniker": "TugasLibrary\\User.cs",
+              "ToolTip": "D:\\1\\1. Data\\1. Data Kuliah\\1. Materi \u0026 Tugas Kelas Kuliah\\SMT3\\PMROGL\\P5\\Tugas Software Testing\\project tugas\\TugasLibrary\\User.cs",
+              "RelativeToolTip": "TugasLibrary\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T10:32:44.545Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

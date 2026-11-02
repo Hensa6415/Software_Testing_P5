@@ -1,0 +1,42 @@
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab\02 tugas\TugasLibrary\bin\Debug\TugasLibrary.dll
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab\02 tugas\TugasLibrary\bin\Debug\TugasLibrary.pdb
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab\02 tugas\TugasLibrary\obj\Debug\TugasLibrary.csproj.CoreCompileInputs.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab\02 tugas\TugasLibrary\obj\Debug\TugasLibrary.dll
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab\02 tugas\TugasLibrary\obj\Debug\TugasLibrary.pdb
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab\02 tugas\TugasLibrary\obj\Debug\TugasLibrary.csprojAssemblyReference.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab buat mhs\02 tugas\TugasLibrary\bin\Debug\TugasLibrary.dll
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab buat mhs\02 tugas\TugasLibrary\bin\Debug\TugasLibrary.pdb
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab buat mhs\02 tugas\TugasLibrary\obj\Debug\TugasLibrary.csprojAssemblyReference.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab buat mhs\02 tugas\TugasLibrary\obj\Debug\TugasLibrary.csproj.CoreCompileInputs.cache
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab buat mhs\02 tugas\TugasLibrary\obj\Debug\TugasLibrary.dll
+E:\Praktikum\01 Pemrograman Lanjut Ganjil 2019-2020\src\05.Software Testing\05 lab buat mhs\02 tugas\TugasLibrary\obj\Debug\TugasLibrary.pdb
+D:\Ngajar\02 Ganjil 2024-2025\Pemrograman Lanjut\02 Praktikum\05\to mhs 2024\02 project tugas\TugasLibrary\bin\Debug\TugasLibrary.dll
+D:\Ngajar\02 Ganjil 2024-2025\Pemrograman Lanjut\02 Praktikum\05\to mhs 2024\02 project tugas\TugasLibrary\bin\Debug\TugasLibrary.pdb
+D:\Ngajar\02 Ganjil 2024-2025\Pemrograman Lanjut\02 Praktikum\05\to mhs 2024\02 project tugas\TugasLibrary\obj\Debug\TugasLibrary.csproj.AssemblyReference.cache
+D:\Ngajar\02 Ganjil 2024-2025\Pemrograman Lanjut\02 Praktikum\05\to mhs 2024\02 project tugas\TugasLibrary\obj\Debug\TugasLibrary.csproj.CoreCompileInputs.cache
+D:\Ngajar\02 Ganjil 2024-2025\Pemrograman Lanjut\02 Praktikum\05\to mhs 2024\02 project tugas\TugasLibrary\obj\Debug\TugasLibrary.dll
+D:\Ngajar\02 Ganjil 2024-2025\Pemrograman Lanjut\02 Praktikum\05\to mhs 2024\02 project tugas\TugasLibrary\obj\Debug\TugasLibrary.pdb
+D:\Ngajar\04 Ganjil 2025-2026\02 Praktik\05\to mhs 2025\02 project tugas\TugasLibrary\bin\Debug\TugasLibrary.dll
+D:\Ngajar\04 Ganjil 2025-2026\02 Praktik\05\to mhs 2025\02 project tugas\TugasLibrary\bin\Debug\TugasLibrary.pdb
+D:\Ngajar\04 Ganjil 2025-2026\02 Praktik\05\to mhs 2025\02 project tugas\TugasLibrary\obj\Debug\TugasLibrary.csproj.AssemblyReference.cache
+D:\Ngajar\04 Ganjil 2025-2026\02 Praktik\05\to mhs 2025\02 project tugas\TugasLibrary\obj\Debug\TugasLibrary.csproj.CoreCompileInputs.cache
+D:\Ngajar\04 Ganjil 2025-2026\02 Praktik\05\to mhs 2025\02 project tugas\TugasLibrary\obj\Debug\TugasLibrary.dll
+D:\Ngajar\04 Ganjil 2025-2026\02 Praktik\05\to mhs 2025\02 project tugas\TugasLibrary\obj\Debug\TugasLibrary.pdb
+D:\Ngajar\06 Ganjil 2026-2027\02 Praktikum\05\to mhs 2026\project tugas\TugasLibrary\bin\Debug\TugasLibrary.dll
+D:\Ngajar\06 Ganjil 2026-2027\02 Praktikum\05\to mhs 2026\project tugas\TugasLibrary\bin\Debug\TugasLibrary.pdb
+D:\Ngajar\06 Ganjil 2026-2027\02 Praktikum\05\to mhs 2026\project tugas\TugasLibrary\obj\Debug\TugasLibrary.csproj.AssemblyReference.cache
+D:\Ngajar\06 Ganjil 2026-2027\02 Praktikum\05\to mhs 2026\project tugas\TugasLibrary\obj\Debug\TugasLibrary.csproj.CoreCompileInputs.cache
+D:\Ngajar\06 Ganjil 2026-2027\02 Praktikum\05\to mhs 2026\project tugas\TugasLibrary\obj\Debug\TugasLibrary.dll
+D:\Ngajar\06 Ganjil 2026-2027\02 Praktikum\05\to mhs 2026\project tugas\TugasLibrary\obj\Debug\TugasLibrary.pdb
+D:\25.11.6415\Tugas Software Testing\project tugas\TugasLibrary\bin\Debug\TugasLibrary.dll
+D:\25.11.6415\Tugas Software Testing\project tugas\TugasLibrary\bin\Debug\TugasLibrary.pdb
+D:\25.11.6415\Tugas Software Testing\project tugas\TugasLibrary\obj\Debug\TugasLibrary.csproj.AssemblyReference.cache
+D:\25.11.6415\Tugas Software Testing\project tugas\TugasLibrary\obj\Debug\TugasLibrary.csproj.CoreCompileInputs.cache
+D:\25.11.6415\Tugas Software Testing\project tugas\TugasLibrary\obj\Debug\TugasLibrary.dll
+D:\25.11.6415\Tugas Software Testing\project tugas\TugasLibrary\obj\Debug\TugasLibrary.pdb
+D:\1\1. Data\1. Data Kuliah\1. Materi & Tugas Kelas Kuliah\SMT3\PMROGL\P5\Tugas Software Testing\project tugas\TugasLibrary\bin\Debug\TugasLibrary.dll
+D:\1\1. Data\1. Data Kuliah\1. Materi & Tugas Kelas Kuliah\SMT3\PMROGL\P5\Tugas Software Testing\project tugas\TugasLibrary\bin\Debug\TugasLibrary.pdb
+D:\1\1. Data\1. Data Kuliah\1. Materi & Tugas Kelas Kuliah\SMT3\PMROGL\P5\Tugas Software Testing\project tugas\TugasLibrary\obj\Debug\TugasLibrary.csproj.AssemblyReference.cache
+D:\1\1. Data\1. Data Kuliah\1. Materi & Tugas Kelas Kuliah\SMT3\PMROGL\P5\Tugas Software Testing\project tugas\TugasLibrary\obj\Debug\TugasLibrary.csproj.CoreCompileInputs.cache
+D:\1\1. Data\1. Data Kuliah\1. Materi & Tugas Kelas Kuliah\SMT3\PMROGL\P5\Tugas Software Testing\project tugas\TugasLibrary\obj\Debug\TugasLibrary.dll
+D:\1\1. Data\1. Data Kuliah\1. Materi & Tugas Kelas Kuliah\SMT3\PMROGL\P5\Tugas Software Testing\project tugas\TugasLibrary\obj\Debug\TugasLibrary.pdb
